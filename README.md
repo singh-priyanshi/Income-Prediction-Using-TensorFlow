@@ -10,6 +10,9 @@ My Summer Projects
 - The downloaded data is then extrated to the program using Pandas library and converted to dataframe 
 - The second part is to train the model using TensorFlow and predict the Income range on test data
 
+## Data Visualization:
+<img width="614" alt="image" src="https://github.com/user-attachments/assets/08ee211b-795c-49da-a6e8-77a661747520">
+
 ### Project Description
 - This project will provide the most efficient prediction on income range of the people and make it fall within two categories
 
@@ -25,6 +28,8 @@ My Summer Projects
 - Evaluating the model with the test data set and formating them into list for understanding the output
 
 ### Result of this Project 
+<img width="294" alt="image" src="https://github.com/user-attachments/assets/1347f89d-fc8e-418a-8998-d442dd1a0aa0">
+
 - The predicted income range is converted to list and compared with the actual data
 - The comparing is done using **Classification Report** from Sklearn 
 - This provides an **efficiency of 85%**
